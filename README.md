@@ -1,4 +1,4 @@
-# Introduction to GitHub
+# Introduction to GitHub 🔔
 
 
 ## Instructors
@@ -8,3 +8,6 @@
 
 ## Guides
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+## I AM
+Alan
